@@ -36,11 +36,11 @@ val max = if (a > b) a else b
 
 ``` kotlin
 val max = if (a > b) { 
-    print("повертаєм a") 
+    print("повертаємо a") 
     a 
   } 
   else { 
-    print("повертаєм b") 
+    print("повертаємо b") 
     b 
   }
 ```
